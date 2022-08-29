@@ -1,5 +1,5 @@
 # bewise.ai
-Hello reader
+Hello reader\n
 I have created script by using a python. I have used pandas library to input data as dataframe. Then by taking olny the manager lines I fulfilled the tasks.
 To take the manager's greeting lines I have used conventional and formal greeting words such as "Здраствуйте". 
 To out the replicas where the manager introduced himself or herself, I have searched for word "зовут".
